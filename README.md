@@ -1,4 +1,4 @@
-###Hi there 👋
+### Hi there 👋
 
 I'm @devlopa7 a developer focusing on web development with JavaScript and PHP. 
 - 👀 I’m interested in ...
