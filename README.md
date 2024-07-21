@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm @devlopa7 a developer focusing on web development with JavaScript and PHP. 
+I'm @devlopa7, a developer focusing on web development with JavaScript and PHP. 
 - 👀 I’m interested in ...
 - 🌱 I’m also learning and curating my JavaScript, PHP, and WordPress dev skills.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:devlopa@gmail.com
+- 📫 How to reach me: devlopa@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
